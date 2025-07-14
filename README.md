@@ -77,9 +77,6 @@ npm run watch       # Watch for changes
 ```bash
 php artisan serve
 ```
-
-Visit [http://localhost:8000](http://localhost:8000) to access the application.
-
 ---
 
 ## 🎮 Usage
