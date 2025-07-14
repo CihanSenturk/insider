@@ -18,9 +18,6 @@ class TeamSeeder extends Seeder
      */
     public function run(): void
     {
-        // Clear existing teams (if any)
-        Team::truncate();
-
         // Top 4 strongest Premier League teams
         $premierLeagueTeams = [
             [
