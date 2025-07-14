@@ -76,8 +76,6 @@ npm run watch
 php artisan serve
 \`\`\`
 
-Visit \`http://localhost:8000\` to access the application.
-
 ## 🎮 Usage
 
 ### Basic Workflow
